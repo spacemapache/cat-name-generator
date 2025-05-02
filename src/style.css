@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+}
+
+img {
+  width: 400px;
+  height: 300px;
+}
+
+button {
+  height: 30px;
+  width: 140px;
+  border-radius: 5px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
+  background-color: rgb(193, 175, 175);
+  border: 1px solid black;
+}
